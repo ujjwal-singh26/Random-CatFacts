@@ -2,17 +2,20 @@
 <br>
 Welcome to the Random Cat Facts project! This is a simple web application that displays interesting and fun facts about cats every time you click a button. It's a great way to learn more about our feline friends and enjoy a quick dose of trivia.
 <br>
+<br>
 🌟 Features
 <br>
 Random Cat Facts: Each click generates a new, random fact about cats.
 Simple and Clean Design: The interface is minimalist and user-friendly, ensuring a seamless experience.
 Responsive Design: The application is fully responsive and works well on both desktop and mobile devices.
 <br>
+<br>
 🚀 Technologies Used
 <br>
 HTML5: For structuring the content of the app.<br>
 CSS3: For styling the app and making it visually appealing.<br>
 JavaScript: For handling the logic of fetching and displaying random cat facts.<br>
+<br>
 <br>
 📂 Project Structure
 <br>
@@ -22,9 +25,11 @@ JavaScript: For handling the logic of fetching and displaying random cat facts.<
 ├── script.js           # The JavaScript file containing the logic <br>
 └── README.md           # This README file
 <br>
+<br>
 🤝 Contributing
 <br>
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+<br>
 <br>
 🐈 About
 <br>
