@@ -1,0 +1,43 @@
+.class1 img {
+    height: 520px;
+    width: 800px;
+    position: relative;
+  }
+
+  .class2 img {
+    height: 520px;
+    width: 400px;
+    position: absolute;
+    right:10px;
+    top:4px;
+}
+
+.btn {
+    position: absolute; 
+    top: 70%; 
+    left: 30%;
+    transform: translate(-50%, -50%); /* Center the button */
+    z-index: 1; /* Bring the button to the front */
+    height:100px;
+    width: 200px;
+     background-color:rgb(71, 214, 174);
+    border-radius: 10px;
+  }
+
+  .btn:hover {
+    background-color:rgb(51, 153, 221);
+  }
+
+  .fact-box {
+    position: absolute;
+    top: 76%;
+    left: 52%;
+    width:260px;
+    height:179px;
+    transform: translate(-50%, -50%);
+    background-color: #e7ea95;
+    padding: 20px;
+    border: 1px solid #9b1414;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
